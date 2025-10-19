@@ -1,0 +1,21 @@
+{
+  "name": "test101",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "run": "node index.js",
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abcd314/test101.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abcd314/test101/issues"
+  },
+  "homepage": "https://github.com/abcd314/test101#readme",
+  "description": ""
+}
